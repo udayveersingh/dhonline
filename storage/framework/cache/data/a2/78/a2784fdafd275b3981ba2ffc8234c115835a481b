@@ -1,0 +1,16 @@
+9999999999s:460:".bravo_wrap .bravo_detail_hotel .bravo_content .g-header .star-rate{
+    display: none ;
+}
+
+.bravo_wrap .bravo-list-hotel .item-loop .list-star .booking-item-rating-stars{
+    display: none;
+}
+
+.bravo_wrap .bravo_detail_hotel .bravo-list-hotel-related-widget .item .media .media-body .star-rate
+{
+    display: none;
+}
+.bravo_wrap .bravo_search_hotel .bravo-list-item .list-item .item-loop .list-star .booking-item-rating-stars{
+display: none;
+
+}";

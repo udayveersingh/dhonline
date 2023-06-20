@@ -1,0 +1,1 @@
+[11-May-2023 09:28:10 Asia/Kolkata] PHP Fatal error:  Cannot use App\Models\Hotel as Hotel because the name is already in use in /home8/dharamshalaonlin/public_html/modules/Hotel/Controllers/HotelController.php on line 185

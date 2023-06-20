@@ -1,0 +1,6 @@
+9999999999s:214:"<script>
+  function updateStatus(id) {
+    // This is where you would write code to update the status of the booking with the given ID
+    console.log(`Updating status of booking with ID ${id}`);
+  }
+</script>";
